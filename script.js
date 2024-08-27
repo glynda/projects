@@ -124,3 +124,5 @@ function getReminYearsToRetire(yearToRetire) {
 }
 //will execute accdg to first used variable inside the function like byear is used first than retAge
 console.log(getReminYearsToRetire(1977)(75));
+
+//glynda code for javascript
